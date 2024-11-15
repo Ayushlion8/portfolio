@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://akhils.github.io/sitemap_index.xml
